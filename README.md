@@ -1,6 +1,6 @@
 # Practicum_projects
 | #    | Наименование проекта| Описание | Стек         |
-| ---- | -------------------- | -------- | ------------|
+| ---- | ---- | --- | ----|
 | 1.   | [Проект: телекоммуникации](https://github.com/krasnogir3005/Practicum_projects/blob/main/Проект%20телекоммуникации.ipynb) | Модель, которая предсказывает, разорвёт ли абонент договор.| python, pandas, numpy, sklearn, matplotlib, LabelEncoder, Catboost, RandomForest, LGBM|
 | 2.   | [Прогноз количества заказов для сервиса такси](https://github.com/krasnogir3005/Practicum_projects/blob/main/Прогнозирование%20заказов%20такси%20-%20временные%20ряды.ipynb) | Прогноз количества заказов <br/>для сервиса такси с целью более точного планирования количества доступных <br/>автомобилей | python, pandas, numpy, statsmodels, sklearn, CatBoost, matplotlib, Catboost, RandomForest, LGBM, временные ряды |
 | 3.   | [Анализ текстов](https://github.com/krasnogir3005/Practicum_projects/blob/main/Проект%20для%20Викишоп%20-%20машинное%20обучение%20текстов.ipynb) | Анализ комментариев пользователей на токсичность             | python, pandas, numpy, nltk, sklearn, WordCloud, WordNetLemmatizer, CatBoost, DecisionTree, Логистическая регрессия|
